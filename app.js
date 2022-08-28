@@ -11,9 +11,9 @@ const quiz = [
  },{
     question :"FXの海外での呼ばれ方は？（短縮形）",
     answers: [
-    "FX",
-    "ForX",
     "FOREX",
+    "ForX",
+    "FX",
     "FOX"
     ],
     correct:"FOREX"
